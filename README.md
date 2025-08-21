@@ -2,7 +2,7 @@
 
 A customized statusline for Claude Code that provides comprehensive information about your development session, including costs, git status, and token usage.
 
-![Statusline Preview](https://i.ibb.co/G3QP5V7b/Status-Line-Preview.png)
+![Statusline Preview](StatusLinePreview.png)
 
 ## Features
 
